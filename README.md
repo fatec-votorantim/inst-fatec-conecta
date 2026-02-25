@@ -6,11 +6,11 @@ Projeto institucional da Fatec Votorantim. O projeto é uma plataforma digital q
 Professora Responsável: Angelina Vitorino de Souza Melaré
 
 Alunos envolvidos: 
-Gustavo Pires Formigoni Leite,
-Gustavo de Campos Antunes,
-Juan Lucas da Silva,
-Lucas Silva Peres,
-Tiago Martins Domingues
+- Gustavo Pires Formigoni Leite
+- Gustavo de Campos Antunes
+- Juan Lucas da Silva
+- Lucas Silva Peres
+- Tiago Martins Domingues
 
 ## Tecnologias Utilizadas
 - Next.js
