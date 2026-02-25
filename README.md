@@ -1,6 +1,6 @@
 # Fatec Conecta
 
-Projeto institucional da Fatec Votorantim. O projeto é uma plataforma digital que integre a comunidade, a Fatec Votorantim e as empresas, promovendo a gestão de propostas de projetos de extensão a serem desenvolvidos por meio dos Projetos Integradores do curso de DSM.
+Projeto institucional da Fatec Votorantim. O projeto é uma plataforma digital que integra a comunidade, a Fatec Votorantim e as empresas, promovendo a gestão de propostas de projetos de extensão a serem desenvolvidos por meio dos Projetos Integradores do curso de DSM.
 
 
 ## Tecnologias Utilizadas
