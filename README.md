@@ -1,2 +1,49 @@
-# inst-fatec-conecta
-Projeto institucional  de pesquisa de RJI Fatec Conecta
+# Fatec Conecta
+
+Projeto institucional da Fatec Votorantim. O projeto é uma plataforma digital que integre a comunidade, a Fatec Votorantim e as empresas, promovendo a gestão de propostas de projetos de extensão a serem desenvolvidos por meio dos Projetos Integradores do curso de DSM.
+
+
+## Tecnologias Utilizadas
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Storybook
+- Base UI
+
+## Como Rodar o Projeto
+1. Clone o repositório:
+   ```bash
+   git clone
+   ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd conecta-fatec
+    ```
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+4. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
+5. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o projeto em ação.
+
+## Como Rodar o Storybook
+
+1. Certifique-se de que todas as dependências estão instaladas (veja o passo 3 acima).
+2. Inicie o Storybook:
+    ```bash
+    npm run storybook
+    ```
+3. Abra [http://localhost:6006](http://localhost:6006) no seu navegador para ver o Storybook.
+
+## Estrutura do Projeto
+[Atomic Design](https://medium.com/design-bootcamp/atomic-design-building-better-digital-products-piece-by-piece-8cd9eee04f44)
+- `src/app`: Contém as páginas da aplicação.
+- `src/components`: Contém os componentes reutilizáveis da aplicação.
+- `src/stories`: Contém os arquivos de Storybook para os componentes.
+- `public`: Contém os arquivos estáticos, como imagens e fontes.
+
+## Contribuição
+Contribuições são bem-vindas! 
