@@ -2,6 +2,9 @@
 
 Projeto institucional da Fatec Votorantim. O projeto é uma plataforma digital que integra a comunidade, a Fatec Votorantim e as empresas, promovendo a gestão de propostas de projetos de extensão a serem desenvolvidos por meio dos Projetos Integradores do curso de DSM.
 
+## Equipe
+Professora Responsável: Angelina Vitorino de Souza Melaré
+Alunos envolvidos: Gustavo Pires Formigoni Leite, Gustavo de Campos Antunes, Juan Lucas da Silva, Lucas Silva Peres, Tiago Martins Domingues
 
 ## Tecnologias Utilizadas
 - Next.js
